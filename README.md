@@ -1,5 +1,5 @@
 # taskTracker
-This is a basic task tracker command line interface (CLI) app I made as a part of the roadmap.sh backend developer roadmap. 
+This is a basic task tracker command line interface (CLI) app I made as a part of the roadmap.sh backend developer roadmap. You can find the specification for the project [here](https://roadmap.sh/projects/task-tracker).
 
 The task tracker does not require any modules external to the Python standard library.  
 
